@@ -5,6 +5,7 @@
 ``` javascript
 const alwaysImprove = true
 ```
-- [ ] Study hard
-- [ ] Do what you love
-- [ ] Enjoy the journey
+- [x] Study hard
+- [x] Do what you love
+- [x] Enjoy the journey
+
